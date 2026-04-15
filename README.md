@@ -582,6 +582,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
 - [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
+- [AgentQA](https://startup-87-agentqa-human-in-the-loop-e2e-testing-nfkznkrzm.vercel.app?utm_source=awesome-ai-tools&utm_medium=github&utm_campaign=awesome_list) - Human QA testing marketplace for AI-built apps. Submit a URL, get a human tester, receive bug reports with network logs and console captures. From $5/test.
 - [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
